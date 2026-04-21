@@ -8,7 +8,11 @@ Repository Structure
 functions.py                  #All model functions, including solvers, metrics, plots
 
 models/   #Contains files with bar plots of of vaccine/mutant impact over various high, medium and low values, along with heatmaps
+
   delayed_vacc_highmedlows    #delayed vaccination scenario
+  
   delayed_mut_highmedlows     #delayed mutation scenario
+  
   undelayed_highmedlows       #no delay timing scenario
+  
 
