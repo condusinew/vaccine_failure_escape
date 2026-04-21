@@ -3,7 +3,17 @@
 Vaccine Failure Mode Model
 This repository contains code and figures for a mathematical modelling studythat examines how all-or-nothing (AoN) and leaky vaccine protection affect escape mutant selection across a range of disease/population parameters.
 
-Repository Structure
+**Required Packages**
+
+- solve_ivp from scipy.integrate 
+- numpy 
+- math
+- matplotlib.pyplot
+- pandas as pd
+- seaborn
+
+
+**Repository Structure**
 
 functions.py ---- All model functions, including solvers, metrics, plots
 
