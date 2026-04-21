@@ -1,7 +1,7 @@
 # Vaccine Failure Modes and Vaccine Escape
 
 Vaccine Failure Mode Model
-This repository contains code and figures for a mathematical modelling studythat examines how all-or-nothing (AoN) and leaky vaccine protection affect escape mutant selection across a range of disease/population parameters.
+This repository contains code and figures for a mathematical modelling study that examines how all-or-nothing (AoN) and leaky vaccine protection affect escape mutant selection across a range of disease/population parameters.
 
 **Required Packages**
 
@@ -26,6 +26,7 @@ This repository contains code and figures for a mathematical modelling studythat
   -  undelayed_highmedlows ----- no delay timing scenario
   
 Authors:
-Cindy (Qin Yi Yu)
-Ali
+Cindy (Qin Yi) Yu
+Nicole Mideo
+Alison Hill
  
