@@ -25,5 +25,7 @@ This repository contains code and figures for a mathematical modelling studythat
 
   -  undelayed_highmedlows ----- no delay timing scenario
   
-
+Authors:
+Cindy (Qin Yi Yu)
+Ali
  
